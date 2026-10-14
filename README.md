@@ -10,6 +10,7 @@ I am an undergraduate research student majoring in Biology at Smith College, wit
  * Team Management
  * Project Leadership
 
+Ask me about [birds!](https://ebird.org/profile/MjY0NzY5Ng/).
 Connect with me on [LinkedIn](https://www.linkedin.com/in/gigi-ochs-87b012396/).
 
 <!--
