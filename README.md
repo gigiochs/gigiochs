@@ -2,7 +2,7 @@
 
 I am an undergraduate research student majoring in Biology at Smith College, with interests in evolutionary biology, bioinformatics, and molecular biology. I am currently using the bioinformatics pipeline EukPhylo to investigate the evolutionary relationships between RNA polymerase enzymes throughout the Tree of Life. 
 
-###Skills 
+### Skills 
 
  * EukPhylo
  * Python
