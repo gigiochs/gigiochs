@@ -10,7 +10,7 @@ I am an undergraduate research student majoring in Biology at Smith College, wit
  * Team Management
  * Project Leadership
 
-Connect with me on [LinkedIn] (https://www.linkedin.com/in/gigi-ochs-87b012396/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gigi-ochs-87b012396/).
 
 <!--
 **gigiochs/gigiochs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
